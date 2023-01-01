@@ -28,8 +28,10 @@
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src=https://img.shields.io/badge/Kotlin-6DB33F?style=for-the-badge&logo=Kotlin&logoColor=white">
-    <img src=https://img.shields.io/badge/AndroidStudio-6DB33F?style=for-the-badge&logo=AndroidStudio&logoColor=white">                                       </p><br>
+    <img src=https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src=https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">    
+    <img src=https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p><br>
 
 <p align="center">
     💡have experienced stacks
