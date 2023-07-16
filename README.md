@@ -7,16 +7,8 @@
     <Strong>⚒️Tech Stack⚒️</Strong>
 </p>
 
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">    
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-</p><br>
-
 <br>
 
 <div align=center>
     
-![Chaejongin12's github stats](https://github-readme-stats.vercel.app/api?username=Chaejongin12&show_icons=true)
 </div>
